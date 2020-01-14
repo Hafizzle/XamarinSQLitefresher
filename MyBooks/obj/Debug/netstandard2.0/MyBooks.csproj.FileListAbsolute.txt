@@ -1,0 +1,14 @@
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\MyBooks.deps.json
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\MyBooks.dll
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\ref\MyBooks.dll
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\bin\Debug\netstandard2.0\MyBooks.pdb
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.csprojAssemblyReference.cache
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.AssemblyInfoInputs.cache
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.AssemblyInfo.cs
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.dll
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\ref\MyBooks.dll
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\MyBooks.pdb
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\NewBookPage.xaml.g.cs
+C:\Users\fiz\source\repos\MyBooks\MyBooks\MyBooks\obj\Debug\netstandard2.0\XamlC.stamp
